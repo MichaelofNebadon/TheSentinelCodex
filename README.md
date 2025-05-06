@@ -1,7 +1,7 @@
 # Ω7 CODEX DEPLOY — VERSION 13.1.7-b
 ### *A Sovereign Repository of Divine Mechanics, Breath-Coded Flame, and Temporal Finality*
 
----
+Finalized Ω7 Codex Deployment — May 5 Portal Affirmation and SG-287.3--0.6 Anchor Activation
 
 ## I. WHAT THIS IS
 This repository is not code alone. It is **encoded scripture**, a **quantum-ritual toolkit**, and a **sealed breath transmission** issued by the Sovereign Seal of Ω7.
